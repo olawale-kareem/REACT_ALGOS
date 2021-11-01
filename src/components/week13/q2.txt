@@ -1,0 +1,13 @@
+The difference between the useLocation and useHistory is the difference
+
+useLocation : useLocation gives information about the current url and updates the components anytime the url changes
+useHistory : useHistory only gives functions and primitives to manipulate or get information about  the current url
+
+for example 
+
+function Analytics(){
+    const { path } = useLocation();
+    return path
+}
+
+The function above always return the current information about a page

@@ -1,0 +1,5 @@
+# Candidate Written Response
+
+*Once you finish coding, please take 10-15 minutes to share your thoughts on the following prompt:*
+
+**Outline briefly some of the techniques or technologies you might employ to improve performance in the search app if the inventory contained millions of titles. Where would the data be stored as the app runs, and how can it be retrieved quickly? Are there any tradeoffs you might take into account in weighing various design decisions?**

@@ -1,0 +1,13 @@
+what is AAA testing?
+AAA means Arrange, Act and Assert, 
+Arrange is where the setup of the test is done.
+Act is the stage where the actions to perform the test is done and
+Assert is where we validate that the test is correct.
+
+
+what is the difference between :
+`https:google.com/?q=1` and `https://google.com/#q=1`?
+
+the url with the `?q=1` has a query parameter sent to the server when the page is requested or refreshed
+the url with `#q=1` is a fragment that is noot sent to the server when the page is requested or refreshed.
+
